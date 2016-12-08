@@ -1,0 +1,8 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\BUMarkscard\BUMarkscard\bin\Debug\BUMarkscard.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\BUMarkscard\BUMarkscard\obj\Debug\BUMarkscard.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\BUMarkscard\BUMarkscard\bin\Debug\BUMarkscard.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\BUMarkscard\BUMarkscard\bin\Debug\BUMarkscard.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\BUMarkscard\BUMarkscard\bin\Debug\BuMarkscard.Core.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\BUMarkscard\BUMarkscard\bin\Debug\BuMarkscard.Core.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\BUMarkscard\BUMarkscard\obj\Debug\BUMarkscard.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\BUMarkscard\BUMarkscard\obj\Debug\BUMarkscard.pdb
